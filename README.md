@@ -1,2 +1,2 @@
 # Maven_Repo
-This project is just a sample project of maven for jenkins .
+This project is a Maven project for deployment of a webapp using Jenkins and Tomcat server .
